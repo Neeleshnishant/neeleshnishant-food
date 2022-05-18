@@ -197,7 +197,7 @@
     padding: 1.2rem 2rem;
   }
 }
-@media (max-width: 24em) {
+@media (max-width: 28em) {
   .link:link {
     font-size: 2rem;
     padding: 1rem;
