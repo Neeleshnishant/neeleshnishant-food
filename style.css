@@ -341,6 +341,7 @@ h1 {
 }
 .vegan {
   display: flex;
+  padding: 2.8rem 2rem;
 }
 .items-name {
   font-size: 3.2rem;
